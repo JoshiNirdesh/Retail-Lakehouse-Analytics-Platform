@@ -1,0 +1,5 @@
+pandas
+pyspark
+pyarrow
+jupyter
+matplotlib
