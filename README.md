@@ -4,7 +4,7 @@
 This project is a simple data engineering pipeline built using Python, Pandas, and PySpark.
 
 It takes raw retail data, cleans it, and transforms it step by step into useful data that can be used for analysis and reporting.
-![Uploading Screenshot 2026-04-06 at 12.50.51.png…]()
+
 
 ---
 
